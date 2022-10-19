@@ -1,0 +1,60 @@
+
+body{
+  background-color :#FFE4C4;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color :chocolate;
+border-width: 5px;
+width:10%;
+}
+img{
+width:50px;
+height:50px;
+background-color: red;
+}
+img:hover {
+  background-color: bisque;
+}
+
+h1{
+  color: #A52A2A;
+  background-color: #DEB887;
+  border-style:inset;
+}
+h3{
+  color:#A52A2A;
+  background-color: #DEB887;
+  border-style: inset;
+}
+h5{
+  color:#A52A2A;
+  background-color: #DEB887;
+  border-style: inset;
+}
+
+ /*********************class***********************/
+
+.romantic {
+  background-color:#A9A9A9;
+}
+.thriller{
+  background-color: #B22222;
+}
+
+.circular{
+  border-radius: 100%;
+}
+.haha:hover {
+  background-color: bisque;
+}
+
+/************İD SELECTOR********************/
+
+#heading {
+  color:blue;
+}
+#big {
+  font-size: 1000px;
+}
